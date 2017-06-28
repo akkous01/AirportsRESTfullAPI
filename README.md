@@ -1,3 +1,1 @@
-# AirportsRESTfullAPI
-
-NetBeans web application. 
+# AirportsRESTfullAP
